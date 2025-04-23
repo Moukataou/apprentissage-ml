@@ -33,12 +33,13 @@ Ce dépôt contient les exercices et notes personnels issus de mon apprentissage
 📁 Dossier : [`deeplearning-ai/`](./deeplearning-ai)
 
 ---
-## ✍️ Objectifs
+
+## 🎯 Objectifs
 
 - 📈 Suivre ma progression personnelle
-- 🧪 Réaliser les exercices 
-- 🗃️ Conserver une trace durable de mes résolutions
-- ⚙️ Entraîner les modèles sur GPU distant (merci Colab)
+- 🏋️ Réaliser les exercices 
+- 🗃️ Conserver une trace de mes résolutions
+- ⚙️ Entraîner les modèles sur GPU distant
 
 ---
 
