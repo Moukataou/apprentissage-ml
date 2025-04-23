@@ -1,4 +1,4 @@
-# 🧠 ML Apprentissage — Suivi de formation et exercices pratiques
+# 🧠 Apprentissage ML — Suivi de formation et exercices pratiques
 
 Ce dépôt contient les exercices et notes personnels issus de mon apprentissage du **Machine Learning** à travers des livres et des formations en ligne. 
 
