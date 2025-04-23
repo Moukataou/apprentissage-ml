@@ -26,7 +26,7 @@ Ce dépôt contient les exercices et notes personnels issus de mon apprentissage
 
 ---
 
-## . 🗺️ Cartes mentales
+## 🗺️ Cartes mentales
 - Parce que Tonton avait raison, pour apprendre et se remémorer c'est le top!
 - Créés sur Xmind (version gratuite 🐀).
 
